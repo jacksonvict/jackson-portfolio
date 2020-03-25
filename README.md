@@ -9,6 +9,6 @@ Other than that, the essentials about me: I love burgers, live theater, and sing
 # What I Hope to Learn
 ...I hope to improve upon the skills that I learned in my prior GIS class! As a visual learner, I really appreciate the power of being able to visualize data to make information accessible to as many people as possible. Given this, I really hope to learn how to effectively visualize map data across multiple platforms so I can do this work without relying one type of software. 
 
-As a policy student, I hope to learn more about the ethics behind collecting mapping data; particularly when people are not aware of how much of their personal data they are giving up. Having not taken any technology/privacy courses, I hope this class can serve as a start to understanding that the ins-and-outs of this subject.   
+As a policy student, I hope to learn more about the ethics behind collecting mapping data; particularly when people are not aware of how much of their personal data they are giving up. Having not taken any technology/privacy courses, I hope this class can serve as a start to understanding the ins-and-outs of this subject.   
 
 # Portfolio
