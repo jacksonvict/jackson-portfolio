@@ -14,10 +14,12 @@ As a policy student, I hope to learn more about the ethics behind collecting map
 # Portfolio
 
 ## Lab Assignment: Mapbox
-### __Assignment: Follow the tutorial to learn how to do basic mapping with Mapbox.__
+__Assignment: Follow the tutorial to learn how to do basic mapping with Mapbox.__
+
 The final product can be found [here](https://api.mapbox.com/styles/v1/jacksonvict/ck8o3sjcm37x51is66x8hys4f.html?fresh=true&title=view&access_token=pk.eyJ1IjoiamFja3NvbnZpY3QiLCJhIjoiY2s4NmZzajQzMGY0MTNmbGo0anMzZXdvaiJ9.f2oyXTDNtXVS76FqydAVwA)
 
-### __Reflection__
+__Reflection__
+
 Arguably, Mapbox was the most frustrating experience I had with any of the mapping programs to date. The experience required multiple attempts at troubleshooting. Initially, the program would not accept my JSON files for county prescriptions because of the size of the file. In my second attempt, I tried to upload the CSV files under tilesets, but they were rejected. Interestingly,  Mapbox gives an option to covert datasets into tilesets so I uploaded both the state and county CSV files as two separate datasets as a work around. This resulted in point features rather than an actual shape. I began my third work-around to use the shapefiles (which took an inconvenient amount of time to load). This worked.
 
 One thing that I did not enjoy about Mapbox was the inability to move the layers. I am unsure in anybody else ran into this issue, but I was only able to move the layers created from my tiles sets. All other feature layers had to be moved as a group, though I did have the option of turning sub-layers off and on.  Additionally, looking at my published map, I do not see a key to explain the graduated coloring. I may have missed a step, but I am not sure how useful this map would be as a deliverable to explain the data to someone unfamiliar with it. 
