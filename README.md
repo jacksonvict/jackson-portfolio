@@ -24,4 +24,5 @@ Arguably, Mapbox was the most frustrating experience I had with any of the mappi
 
 One thing that I did not enjoy about Mapbox was the inability to move the layers. I am unsure in anybody else ran into this issue, but I was only able to move the layers created from my tiles sets. All other feature layers had to be moved as a group, though I did have the option of turning sub-layers off and on.  Additionally, looking at my published map, I do not see a key to explain the graduated coloring. I may have missed a step, but I am not sure how useful this map would be as a deliverable to explain the data to someone unfamiliar with it. 
 
+Despite these frustrations, I did like Mapbox as an alternative to ArcGIS though I feel like I would do all my work beforehand in ArcGIS. I do not have a lot of experience with JSON and could not understand what I needed to fix to make my CSV file work, so I had to rely on what I could do in GIS. However, if the files were already formatted, I believe I would find it useful for producing a comparative map. I would be interested to see what other types of analysis could be done with Mapbox.
 
