@@ -12,3 +12,4 @@ Other than that, the essentials about me: I love burgers, live theater, and sing
 As a policy student, I hope to learn more about the ethics behind collecting mapping data; particularly when people are not aware of how much of their personal data they are giving up. Having not taken any technology/privacy courses, I hope this class can serve as a start to understanding the ins-and-outs of this subject.   
 
 # Portfolio
+[Lab Assignment: Mapbox](Mapbox-Lab)
