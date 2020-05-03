@@ -31,8 +31,16 @@ The following screenshots are of maps analyzing volunteer trips from point of or
 ## Lab Assignment: Custom ArcGIS Map ##
 __Assignment: Create a custom ArcGIS basemap style based on something interesting or inspiring__
 
+The following are screeshots of a customized map inspired by a food people think they enjoy, but is also kind of a bummer. 
 ![TheGoodPlace](https://media.giphy.com/media/xULW8i1lsTvYAyJgVW/giphy.gif)
 ###### Credit:[@thegoodplace GIPHY](https://giphy.com/gifs/xULW8i1lsTvYAyJgVW/html5) ######
+
+![FroYo](https://github.com/jacksonvict/jackson-portfolio/blob/master/FroYo.png?raw=true)
+
+![Charlotte](https://github.com/jacksonvict/jackson-portfolio/blob/master/ModernAntiqueFroYo-Charlotte.png?raw=true)
+
+![FirstWard](https://github.com/jacksonvict/jackson-portfolio/blob/master/ModernAntiqueFroYo-FirstWard.png?raw=true)
+
 
 
 
