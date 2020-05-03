@@ -13,6 +13,11 @@ As a policy student, I hope to learn more about the ethics behind collecting map
 
 # Portfolio
 
+## Lab Assignment: Geographic Footprint ##
+__Assignment: Map [412 Food Rescue](https://412foodrescue.org/) pick-up and delivery data.__
+
+
+
 ## Lab Assignment: Mapbox
 __Assignment: Follow the tutorial to learn how to do basic mapping with Mapbox.__
 
