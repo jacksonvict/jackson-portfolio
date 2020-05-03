@@ -33,7 +33,7 @@ __Assignment: Create a custom ArcGIS basemap style based on something interestin
 
 The following are screeshots of a customized map style inspired by a food people think they enjoy, but is also kind of a bummer. 
 ![TheGoodPlace](https://media.giphy.com/media/xULW8i1lsTvYAyJgVW/giphy.gif)
-###### Credit:[@thegoodplace GIPHY](https://giphy.com/gifs/xULW8i1lsTvYAyJgVW/html5) ######
+###### Credit:[@thegoodplace GIPHY](https://giphy.com/thegoodplace) ######
 
 ![FroYo](https://github.com/jacksonvict/jackson-portfolio/blob/master/FroYo.png?raw=true)
 
