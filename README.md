@@ -14,8 +14,13 @@ As a policy student, I hope to learn more about the ethics behind collecting map
 # Portfolio
 
 ## Lab Assignment: Geographic Footprint ##
-__Assignment: Map [412 Food Rescue](https://412foodrescue.org/) pick-up and delivery data.__
+__Assignment: Use the open-source, geospatial tool [Kepler](https://kepler.gl/) to map [412 Food Rescue](https://412foodrescue.org/) pick-up and delivery data.__
 
+The following screenshots are of maps analyzing volunteer trips from point of origin to destination over multiple months. The blue arcs signify the origins and the red arcs the destinations of the pick-ups.
+
+![412KeplerArcMap](https://github.com/jacksonvict/jackson-portfolio/blob/master/412KeplerArcMap.png?raw=true)
+
+![412KeplerArcMapIII](https://github.com/jacksonvict/jackson-portfolio/blob/master/412KeplerArcMapIII.png?raw=true)
 
 
 ## Lab Assignment: Mapbox
