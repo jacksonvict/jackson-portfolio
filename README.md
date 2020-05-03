@@ -47,6 +47,6 @@ The following are screeshots of a customized map style inspired by a food people
 
 
 ## Lab Assignment: Mapbox
-__Assignment: Follow the tutorial to learn how to do basic mapping with Mapbox.__
+__Assignment: Build an online map from scratch using Mapbox.__
 
-The final product can be found [here](https://api.mapbox.com/styles/v1/jacksonvict/ck8o3sjcm37x51is66x8hys4f.html?fresh=true&title=view&access_token=pk.eyJ1IjoiamFja3NvbnZpY3QiLCJhIjoiY2s4NmZzajQzMGY0MTNmbGo0anMzZXdvaiJ9.f2oyXTDNtXVS76FqydAVwA)
+The map included found in this [link](https://api.mapbox.com/styles/v1/jacksonvict/ck8o3sjcm37x51is66x8hys4f.html?fresh=true&title=view&access_token=pk.eyJ1IjoiamFja3NvbnZpY3QiLCJhIjoiY2s4NmZzajQzMGY0MTNmbGo0anMzZXdvaiJ9.f2oyXTDNtXVS76FqydAVwA) highlights the distribution of 2017 U.S. age-adjusted rate of drug overdose death rates by state and the U.S. county prescribing rates for 2017. Data for both the [drug overdose rates](https://www.cdc.gov/drugoverdose/data/statedeaths.html) and the [county prescribing rates](https://www.cdc.gov/drugoverdose/maps/rxcounty2017.html) were obtained from the Centers for Disease Control and Prevention.
