@@ -27,7 +27,7 @@ The following screenshots are of maps analyzing volunteer trips from point of or
 ## Lab Assignment: Custom ArcGIS Map ##
 __Assignment: Create a custom ArcGIS basemap style based on something interesting or inspiring__
 
-The following are screenshots of a customized map style inspired by a food people think they enjoy, but is also kind of a bummer. 
+The following are screenshots of a customized style inspired by a food people think they enjoy, but is also kind of a bummer. 
 ![TheGoodPlace](https://media.giphy.com/media/xULW8i1lsTvYAyJgVW/giphy.gif)
 ###### Credit:[@thegoodplace GIPHY](https://giphy.com/search/@thegoodplace-frozen-yogurt?channel=thegoodplace) ######
 
