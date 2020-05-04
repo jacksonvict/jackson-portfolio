@@ -5,7 +5,7 @@ Working portfolio for Advanced GIS (Spring 2020).
 My name is Victoria Jackson and I am a second-year MSPPM with a concentration in Urban and Regional Economic Development. I grew up as a military kid moving across the United States, but I most recently hail North Carolina. I graduated from Davidson College in 2012 with the idea that I would pursue a career working with youth. To that end, I taught in a middle school for two years before working as a Teen Services Specialist at ImaginOn, a branch of Charlotte-Mecklenburg Library. My experiences working in those environments led me to pursue a public policy degree for reasons that are probably too long to sum up in this introduction. I'll just say that my goal now is to provide opportunities for communities that haven't had access to them. 
 
 # Why Advanced GIS
-I appreciate the power of being able to visualize data to make information accessible to as many people as possible. What is more accessible than the neighborhoods, cities, states, and countries in which you live? With this ethos, I took Advanced GIS to expand my mapping toolkit to include more ArcGIS tools as well as open source spatial programs such as Kepler and Mapbox. Examples of this work are highlighted in the portfolio below.
+I appreciate the power of visualizing data to convey information in an accessible manner to as many people as possible. What is more accessible than the neighborhoods, cities, states, and countries in which you live? With this ethos, I took Advanced GIS to expand my mapping toolkit within ArcGIS as well as open-source web programs such as Kepler and Mapbox. Examples of this work are highlighted in the portfolio below.
 
 # Portfolio
 
